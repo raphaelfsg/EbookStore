@@ -1,0 +1,43 @@
+namespace EbookStore
+{
+    public enum Genero
+    {
+        Arte = 1,
+        Artesanato_Casa = 2,
+        Autoajuda = 3,
+        Biografias = 4,
+        Ciencias = 5,
+        Ciencias_Sociais = 6,
+        Cinema_e_Fotografia = 7,
+        Direito = 8,
+        Economia = 9,
+        Entretenimento = 10,
+        Esportes = 11,
+        Estilo_de_Vida = 12,
+        Fantasia = 13,
+        Ficcao = 14,
+        Gastronomia = 15,
+        Historia = 16,
+        HQs = 17,
+        Humor = 18,
+        Infantil = 19,
+        Lazer = 20,
+        Linguas_Estrangeiras = 21,
+        Linguistica = 22,
+        Literatura = 23,
+        Mangas = 24,
+        Medicina = 25,
+        Negocios = 26,
+        Policial = 27,
+        Politica = 28,
+        Referencia = 29,
+        Religiao = 30,
+        Romance = 31,
+        Saude_Família = 32,
+        Suspense = 33,
+        Teen = 34,
+        Terror = 35,
+        TI = 36,
+        Turismo = 37
+    }
+}
